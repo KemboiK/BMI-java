@@ -25,6 +25,7 @@ This is a simple Java console application that calculates a person's **Body Mass
 Open a terminal in the project directory and run:
 
 javac BMI.java
+
 java BMI
 
 ### Sample Output

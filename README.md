@@ -29,8 +29,11 @@ java BMI
 
 ### Sample Output
 Enter your weight in kilograms: 70
+
 Enter your height in meters: 1.75
+
 Your BMI is: 22.86
+
 You have a normal weight.
 
 
